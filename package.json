@@ -1,0 +1,19 @@
+{
+  "name": "digital-pensum",
+  "version": "1.0.0",
+  "description": "A digital pensum for UMNG in Bogotá",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/migsan/digital-pensum.git"
+  },
+  "author": "Miguel Angel Santamaría",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/migsan/digital-pensum/issues"
+  },
+  "homepage": "https://github.com/migsan/digital-pensum#readme"
+}
