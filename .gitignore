@@ -1,2 +1,3 @@
-node-modules/
+node-modules
 public/stylesheets/*.css
+npm-debug.log
